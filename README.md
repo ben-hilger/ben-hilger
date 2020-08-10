@@ -22,7 +22,11 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 # Class Code Links
 
+[CSE 102: Computer Science & Software Engineering](https://github.com/Ben-Hilger/CSE-102-Computer-Sci-and-Software-Eng)
 
+[CSE 274: Data Structures & Abstractions](https://github.com/Ben-Hilger/CSE-274-Data-Structures-Abstractions)
+
+[CSE 278: Intro to System Programming](https://github.com/Ben-Hilger/CSE-278-Intro-to-System-Programming)
 
 # Languages Used in This Repository
 
