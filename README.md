@@ -28,6 +28,12 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 [CSE 278: Intro to System Programming (Java, C++)](https://github.com/Ben-Hilger/CSE-278-Intro-to-System-Programming)
 
+# Current Classes
+
+CSE 383: Web Applications/Programming 
+
+CSE 385: Database Systems
+
 # Languages Used in This Repository
 
 ### Java
