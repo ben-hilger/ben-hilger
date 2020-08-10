@@ -22,17 +22,21 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 # Class Programming Links
 
-[CSE 102: Computer Science & Software Engineering (Java/HTML/CSS/Javascript/Python/SQL)](https://github.com/Ben-Hilger/CSE-102-Computer-Sci-and-Software-Eng)
-
-[CSE 274: Data Structures & Abstractions (Java)](https://github.com/Ben-Hilger/CSE-274-Data-Structures-Abstractions)
-
-[CSE 278: Intro to System Programming (Java, C++)](https://github.com/Ben-Hilger/CSE-278-Intro-to-System-Programming)
 
 ## Current Classes
 
 CSE 383: Web Applications/Programming 
 
 CSE 385: Database Systems
+
+## Previous Classes
+
+[CSE 102: Computer Science & Software Engineering (Java/HTML/CSS/Javascript/Python/SQL)](https://github.com/Ben-Hilger/CSE-102-Computer-Sci-and-Software-Eng)
+
+[CSE 274: Data Structures & Abstractions (Java)](https://github.com/Ben-Hilger/CSE-274-Data-Structures-Abstractions)
+
+[CSE 278: Intro to System Programming (Java, C++)](https://github.com/Ben-Hilger/CSE-278-Intro-to-System-Programming)
+
 
 # Languages Used in This Repository
 
