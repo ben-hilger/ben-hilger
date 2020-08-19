@@ -33,19 +33,19 @@ CSE 385: Database Systems
 
 * Course Discription from Miami Course List: "Overview of database management, database system architecture, and database modeling principles. Logical database design. The relational database model, relational integrity constraints, and relational algebra. Relational commercial database management systems and languages. Interactive database processing, view processing, and database application programming. Database integrity. Relational database design by normalization. File structures for database systems"
 
-STA 404: Advanced Data Visualizaion
+STA 404: Advanced Data Visualizaion (R,RStudio)
 
 ## Previous Classes
 
-[CSE 102: Computer Science & Software Engineering (Java/HTML/CSS/Javascript/Python/SQL)](https://github.com/Ben-Hilger/CSE-102-Computer-Sci-and-Software-Eng)
+CSE 102: Computer Science & Software Engineering (Java/HTML/CSS/Javascript/Python/SQL)
 
 * Course Discription from Miami Course List: "This course introduces students to the computer science and software engineering disciplines. The course focuses on various computing and software design principles and tools used in the profession. Students will be able to model, implement, and test these principles via projects required throughout the course."
 
-[CSE 274: Data Structures & Abstractions (Java)](https://github.com/Ben-Hilger/CSE-274-Data-Structures-Abstractions)
+CSE 274: Data Structures & Abstractions (Java)
 
 * Course Discription from Miami Course List: "MPT Abstract data types and their implementation as data structures using object-oriented programming. Use of object-oriented principles in the selection and analysis of various ADT implementations. Sequential and linked storage representations: lists, stacks, queues, and tables. Nonlinear data structures: trees and graphs. Recursion, sorting, searching, and algorithm complexity."
 
-[CSE 278: Intro to System Programming (Java, C++)](https://github.com/Ben-Hilger/CSE-278-Intro-to-System-Programming)
+CSE 278: Intro to System Programming (Java, C++)
 
 * Course Discription from Miami Course List: "Principles of Von Neumann computer architecture through the C/C++ programming language. Data representation and computer arithmetic. Memory hierarchy. CPU structure and instruction sets. Network programming including use of sockets. Database programming through SQL."
 
