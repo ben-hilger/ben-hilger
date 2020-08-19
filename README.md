@@ -33,6 +33,8 @@ CSE 385: Database Systems
 
 * Course Discription from Miami Course List: "Overview of database management, database system architecture, and database modeling principles. Logical database design. The relational database model, relational integrity constraints, and relational algebra. Relational commercial database management systems and languages. Interactive database processing, view processing, and database application programming. Database integrity. Relational database design by normalization. File structures for database systems"
 
+STA 404: Advanced Data Visualizaion
+
 ## Previous Classes
 
 [CSE 102: Computer Science & Software Engineering (Java/HTML/CSS/Javascript/Python/SQL)](https://github.com/Ben-Hilger/CSE-102-Computer-Sci-and-Software-Eng)
