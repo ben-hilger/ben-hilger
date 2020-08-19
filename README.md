@@ -25,7 +25,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 ## Current Classes
 
-CSE 383: Web Applications/Programming (Linux/Terminal, C++, HTML/CSS/Javascript, AWS, AJAX, Network Security)
+CSE 383: Web Applications/Programming (Linux/Terminal, C++, HTML/CSS/Javascript, AWS, AJAX, jQuery)
 
 * Course Discription from Miami Course List: "An introduction to the software, concepts and methodologies necessary to design and implement web applications. Students will design and construct web applications utilizing remote servers on multiple platforms. Projects will be used to enable the students to apply the principles and techniques presented in class."
 
