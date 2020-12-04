@@ -26,8 +26,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 * Architected back-end with JavaScript and Google's Firebase platform. Front-end with HTML/CSS. Version Control with GitHub
 * Helped develop, and implement user email/password login and admin permissions for adding movies to the list. Implemented user permissions to request movies be added to the list
 
-# Class Programming Links
-
+# Classes
 
 ## Current Classes
 
