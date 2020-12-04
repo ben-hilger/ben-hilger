@@ -35,7 +35,7 @@ CSE 383: Web Applications/Programming (Linux/Terminal, C++, HTML/CSS/Javascript,
 
 * Course Discription from Miami Course List: "An introduction to the software, concepts and methodologies necessary to design and implement web applications. Students will design and construct web applications utilizing remote servers on multiple platforms. Projects will be used to enable the students to apply the principles and techniques presented in class."
 
-CSE 385: Database Systems
+CSE 385: Database Systems (mySQLWorkbench)
 
 * Course Discription from Miami Course List: "Overview of database management, database system architecture, and database modeling principles. Logical database design. The relational database model, relational integrity constraints, and relational algebra. Relational commercial database management systems and languages. Interactive database processing, view processing, and database application programming. Database integrity. Relational database design by normalization. File structures for database systems"
 
