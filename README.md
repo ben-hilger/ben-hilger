@@ -8,11 +8,11 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 * This page is designed to showcase and allow for easy access to my varius projects for everyone to see, learn and provide feedback on how I can imporve my code
 
-[Coivd Ohio Shiny App Dashboard](https://github.com/Ben-Hilger/STA-404-Covid-Shiny-App.git)
+[Coivd Ohio Shiny App Dashboard (R/R-Shiny)](https://github.com/Ben-Hilger/STA-404-Covid-Shiny-App.git)
 
 * Developed for STA 404 final, displays different aspects of COVID data similar to the COVID dashboard.
 * Includes graphs such as a choropleth map of Ohio and bar charts comparing different repsonses among counties and age groups. It also has tabs of bar graphs showing the counts and rates of different respsonses as they change over time throughout the pandemic.
-* Developed with R/R-Shiny. Data pulled from Ohio government and census population website
+* Data pulled from Ohio government and census population website
 
 [Edge Database (Swift/Kotlin)](https://github.com/Ben-Hilger/EdgeDatabaseIOS)
 
