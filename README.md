@@ -36,7 +36,7 @@ CSE 262: Tech, Ethics & Global Society
 
 CSE 374: Algorithms I
 
-* Course Description from Miami Course List: "Design, analysis and implementation of algorithms and data structures. Dynamic programming, brute force algorithms, divide and conquer algorithms, greedy algorithms, graph algorithms, and red-black trees. Other topics include: string matching and computational geometry. "
+* Course Description from Miami Course List: "Design, analysis and implementation of algorithms and data structures. Dynamic programming, brute force algorithms, divide and conquer algorithms, greedy algorithms, graph algorithms, and red-black trees. Other topics include: string matching and computational geometry."
 
 CSE 381: Systems II
 
