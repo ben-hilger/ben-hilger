@@ -40,6 +40,8 @@ CSE 385: Database Systems (Database Structures, Database Design Process, mySQLWo
 
 STA 404: Advanced Data Visualizaion (R,RStudio)
 
+* Course Description from Miami Course List: "Communicating clearly, efficiently, and in a visually compelling manner using data displays. Identifying appropriate displays based on various data characteristics/complexity, audiences, and goals. Using software to produce data displays. Integrating narratives and data displays. Critiquing visualizations based on design principles, statistical characteristics, and narrative quality."
+
 ## Previous Classes
 
 CSE 102: Computer Science & Software Engineering (Java/HTML/CSS/Javascript/Python/SQL)
