@@ -28,6 +28,28 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 # Classes
 
+## Upcoming Classes for Spring 2021
+
+CSE 262: Tech, Ethics & Global Society
+
+* Course Description from Miami Course List: "MPF Inquiry into a wide range of information technology issues, from moral responsibilities affecting professionals to wider ethical concerns associated with information technology in day-to-day living. Topics include general aspects of ethics; common ethical theories; professional codes of ethics in IT; privacy, secruity and reliability in using computer systems and the internet; issues and responsibilities in internet usage; legal issues in IT; global perspectives of computing issues; and general problems related to ethical and responsible computing."
+
+CSE 374: Algorithms I
+
+* Course Description from Miami Course List: "Design, analysis and implementation of algorithms and data structures. Dynamic programming, brute force algorithms, divide and conquer algorithms, greedy algorithms, graph algorithms, and red-black trees. Other topics include: string matching and computational geometry. "
+
+CSE 381: Systems II
+
+* Course Description from Miami Course List: "OS, Currency, Virtualization, and Security (3) Introduction to operating systems concepts. The operating system as a resource manager. The principles for the design and implementation of operating systems. Process scheduling and deadlock prevention. Memory management, virtual memory, paging, and segmentation. Interrupt processing. Device management, I/O systems and I/O processing. Concurrency and multithreading. Virtualization and cloud services. Security and protection."
+
+CSE 465: Comparative Programming Languages
+
+* Course Description from Miami Course List: "Survey of programming languages and their accompanying paradigms. Basic principles of syntax, semantics, implementation, and pragmatics are addressed. The survey will include representatives from the families of imperative languages, functional languages, logic languages, and hybrid languages. Formal methods of definition and specification are introduced."
+
+STA 401: Probability
+
+* Course Description from Miami Course List: "Development of probability theory with emphasis on how probability relates to statistical inference. Topics include review of probability basics, counting rules, Bayes Theorem, distribution function, expectation and variance of random variables and functions of random variables, moment generating function, moments, probability models for special random variables, joint distributions, maximum likelihood estimation, unbiasedness, distributions of functions of random variables, chi-square distribution, students t distribution, F distribution, and sampling distributions of the sample mean and variance."
+
 ## Current Classes
 
 CSE 383: Web Applications/Programming (Linux/Terminal, C++, HTML/CSS/Javascript, AWS, AJAX, jQuery)
