@@ -8,6 +8,15 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 * This page is designed to showcase and allow for easy access to my varius projects for everyone to see, learn and provide feedback on how I can imporve my code
 
+[Client Front End Interface with REST PHP Backend (Javascript, HTML/CSS/Bootstrap, PHP, SQL, Amazon Web Servcies, REST)](https://github.com/Ben-Hilger/Client-Front-End-Interface)
+
+* Developed for CSE 383 final, this website is a front end interface that allows the user to interact with various API's in a user friendly way.
+* First tab displays basic information about the design of the website.
+* Second tab allows for the user to perform basic calculator operations (+ - * /) between two numbers. Makes an AJAX call with a backend server to perform the calculation and returns the result. Can handle divide by 0 errors.
+* Third tab gets a basic 7-day forecast based on a specified zipcode and displays the information in an elegant table format. Makes AJAX calls to get the lat/long of the zip code and then calls the openweatherdata api to get the required weather information.
+* Fourth tab allows the user to update a database with new sensor readings. Allows the user to select the sensor and specify a location and value and it then makes an AJAX call to a REST server that would add data to the SQL database running on an AWS instance.
+* Fifth tabs allows the user to create a sensor report that pulls the most recent sensor readings from the SQL database. Allows the user to specify the number of sensors to include. Makes an AJAX call to a REST server which will pull the sensor information from the database.
+
 [Coivd Ohio Shiny App Dashboard (R/R-Shiny)](https://github.com/Ben-Hilger/STA-404-Covid-Shiny-App.git)
 
 * Developed for STA 404 final, displays different aspects of COVID data similar to the COVID dashboard.
@@ -20,7 +29,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 * Allows coaches to create teams, drills and lesson plans. Also allows coaches to invite players and assign them homework/drills. Also provides students with the ability to view videos of each drill
 * Architected with Google's Firebase, Kotlin Multi-platform Library. Version Control with GitHub
 
-[Group Website Project: FiilmHub (HTML/CSS/Javascript)](https://github.com/Ben-Hilger/CSE-201-Project)
+[Website Project: FiilmHub (HTML/CSS/Javascript)](https://github.com/Ben-Hilger/CSE-201-Project)
 
 * Developed as a website that would display/sort a list of movies
 * Architected back-end with JavaScript and Google's Firebase platform. Front-end with HTML/CSS. Version Control with GitHub
@@ -50,9 +59,9 @@ STA 401: Probability
 
 * Course Description from Miami Course List: "Development of probability theory with emphasis on how probability relates to statistical inference. Topics include review of probability basics, counting rules, Bayes Theorem, distribution function, expectation and variance of random variables and functions of random variables, moment generating function, moments, probability models for special random variables, joint distributions, maximum likelihood estimation, unbiasedness, distributions of functions of random variables, chi-square distribution, students t distribution, F distribution, and sampling distributions of the sample mean and variance."
 
-## Current Classes
+## Previous Classes
 
-CSE 383: Web Applications/Programming (Linux/Terminal, C++, HTML/CSS/Javascript, AWS, AJAX, jQuery)
+CSE 383: Web Applications/Programming (Linux/Terminal, C++, HTML/CSS/Javascript, AWS, AJAX, jQuery, PHP, REST)
 
 * Course Discription from Miami Course List: "An introduction to the software, concepts and methodologies necessary to design and implement web applications. Students will design and construct web applications utilizing remote servers on multiple platforms. Projects will be used to enable the students to apply the principles and techniques presented in class."
 
@@ -63,8 +72,6 @@ CSE 385: Database Systems (Database Structures, Database Design Process, mySQLWo
 STA 404: Advanced Data Visualizaion (R,RStudio)
 
 * Course Description from Miami Course List: "Communicating clearly, efficiently, and in a visually compelling manner using data displays. Identifying appropriate displays based on various data characteristics/complexity, audiences, and goals. Using software to produce data displays. Integrating narratives and data displays. Critiquing visualizations based on design principles, statistical characteristics, and narrative quality."
-
-## Previous Classes
 
 CSE 102: Computer Science & Software Engineering (Java/HTML/CSS/Javascript/Python/SQL)
 
