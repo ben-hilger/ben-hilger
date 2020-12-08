@@ -6,7 +6,8 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 ### **Due to these projects being under heavy development, project links can't be given at this time.** (If you're interested looking at these code bases please feel free to reach out)
 
-Miami University Baseball Analytics Dashboard (HTML/CSS/Bootstrap, React, Node.js, Javascript, Python, Python Flask, Google Cloud, Google Firebase)
+**Miami University Baseball Analytics Dashboard (HTML/CSS/Bootstrap, React, Node.js, Javascript, Python, Python Flask, Google Cloud, Google Firebase)**
+
 Role: Development Lead
 
 * Lead a team of 12 developers in designing an analytics dashboard for use by Miami University baseball coaches in making player development and game-time decisions. As the lead, I manage resources including Firebase Firestore, Hosting, Storage, Google Cloud, Github, Google Drive, Slack and Trello. Developing with HTML/CSS, JavaScript, React, Python, IOS. Manage discussions with Project Manager to construct necessary requirements and documentation.
@@ -14,7 +15,8 @@ Role: Development Lead
 * Uses Google's Firebase Firestore to store the data.
 * Uses Python Flask and Google's Cloud Services to host a backend server capable of recieving network request, performing analytics on the stored data, and returning the results to the front end.
 
-Miami Universitiy Baseball Game Tracker iPad App (Swift, SwiftUI, Google Firebase)
+**Miami Universitiy Baseball Game Tracker iPad App (Swift, SwiftUI, Google Firebase)**
+
 Role: Development Lead
 
 * An iPad app used by the Miami Baseball team to gather as much pitch-by-pitch data in a baseball game as possible.
