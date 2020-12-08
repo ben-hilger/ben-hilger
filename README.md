@@ -85,11 +85,25 @@ CSE 278: Intro to System Programming (Java, C++)
 
 * Course Discription from Miami Course List: "Principles of Von Neumann computer architecture through the C/C++ programming language. Data representation and computer arithmetic. Memory hierarchy. CPU structure and instruction sets. Network programming including use of sockets. Database programming through SQL."
 
-# Languages Used in This Repository
+# Technologies Used in Projects
 
-### Java
-### Swift
-### C++
-### HTML
-### Javascript
-### R
+### Programming Languages
+
+* Java
+* Swift
+* Kotlin
+* C++
+* HTML/CSS/Bootstrap
+* Javascript
+* React JS
+* R
+* R-Shiny
+* Python
+* SQL
+* PHP
+
+### Database/Services
+
+* Amazon Web Services
+* Google Firebase Firestore
+* NoSQL Databases
