@@ -23,7 +23,7 @@ Role: Development Lead
 * Uses that information to perform in-game analysis on various aspects of baseball game as desired by coaching staff in real time.
 * Uploads the data to Google's Firestore for future reference by the Analytics Dashboard
 
-# Project Links
+# Personal/Academic Project Links
 
 [Personal Github Repository Front Page](https://github.com/Ben-Hilger/Ben-Hilger)
 
