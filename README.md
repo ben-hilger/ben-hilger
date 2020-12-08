@@ -4,7 +4,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 # Project Links
 
-[Personal Github Repository Front Page (R markdown)](https://github.com/Ben-Hilger/Ben-Hilger)
+[Personal Github Repository Front Page](https://github.com/Ben-Hilger/Ben-Hilger)
 
 * This page is designed to showcase and allow for easy access to my varius projects for everyone to see, learn and provide feedback on how I can imporve my code
 
