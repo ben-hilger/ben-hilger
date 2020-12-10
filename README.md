@@ -8,7 +8,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 **Miami University Baseball Analytics Dashboard (HTML/CSS/Bootstrap, React, Node.js, Javascript, Python, Python Flask, Google Cloud, Google Firebase)**
 
-Role: Development Lead
+Role: Full Stack Developer, Team Lead
 
 * Lead a team of 12 developers in designing an analytics dashboard for use by Miami University baseball coaches in making player development and game-time decisions. As the lead, I manage resources including Firebase Firestore, Hosting, Storage, Google Cloud, Github, Google Drive, Slack and Trello. Developing with HTML/CSS, JavaScript, React, Python, IOS. Manage discussions with Project Manager to construct necessary requirements and documentation.
 * Uses React to provide a responsive and elegant interface. Hosted using Google's Firebase Hosting Service.
@@ -17,7 +17,7 @@ Role: Development Lead
 
 **Miami Universitiy Baseball Game Tracker iPad App (Swift, SwiftUI, Google Firebase)**
 
-Role: Development Lead
+Role: iOS Developer
 
 * An iPad app used by the Miami Baseball team to gather as much pitch-by-pitch data in a baseball game as possible.
 * Uses that information to perform in-game analysis on various aspects of baseball game as desired by coaching staff in real time.
@@ -44,17 +44,17 @@ Role: Development Lead
 * Includes graphs such as a choropleth map of Ohio and bar charts comparing different repsonses among counties and age groups. It also has tabs of bar graphs showing the counts and rates of different respsonses as they change over time throughout the pandemic.
 * Data pulled from Ohio government and census population website
 
+[Movie Database Website (HTML/CSS/Javascript)](https://github.com/Ben-Hilger/CSE-201-Project)
+
+* Developed as a website that would display/sort a list of movies from a database.
+* Architected back-end with JavaScript and Google's Firebase platform. Front-end with HTML/CSS. Version Control with GitHub
+* Helped develop, and implement user email/password login and admin permissions for adding movies to the list. Implemented user permissions to request movies be added to the list
+
 [Edge Database (Swift/Kotlin)](https://github.com/Ben-Hilger/EdgeDatabaseIOS)
 
 * Developed as a communication platform for coaches and players
 * Allows coaches to create teams, drills and lesson plans. Also allows coaches to invite players and assign them homework/drills. Also provides students with the ability to view videos of each drill
 * Architected with Google's Firebase, Kotlin Multi-platform Library. Version Control with GitHub
-
-[Website Project: FiilmHub (HTML/CSS/Javascript)](https://github.com/Ben-Hilger/CSE-201-Project)
-
-* Developed as a website that would display/sort a list of movies
-* Architected back-end with JavaScript and Google's Firebase platform. Front-end with HTML/CSS. Version Control with GitHub
-* Helped develop, and implement user email/password login and admin permissions for adding movies to the list. Implemented user permissions to request movies be added to the list
 
 # Classes
 
