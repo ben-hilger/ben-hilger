@@ -17,7 +17,7 @@ Role: Full Stack Developer, Team Lead
 
 **Miami Universitiy Baseball Game Tracker iPad App (Swift, SwiftUI, Google Firebase)**
 
-Role: iOS Developer
+Role: iOS Development Lead
 
 * An iPad app used by the Miami Baseball team to gather as much pitch-by-pitch data in a baseball game as possible.
 * Uses that information to perform in-game analysis on various aspects of baseball game as desired by coaching staff in real time.
@@ -29,7 +29,7 @@ Role: iOS Developer
 
 * This page is designed to showcase and allow for easy access to my varius projects for everyone to see, learn and provide feedback on how I can imporve my code
 
-[Client Front End Interface with REST PHP Backend (Javascript, HTML/CSS/Bootstrap, PHP, SQL, Amazon Web Servcies, Ubuntu, REST)](https://github.com/Ben-Hilger/Client-Front-End-Interface)
+Client Front End Interface with REST PHP Backend (Javascript, HTML/CSS/Bootstrap, PHP, SQL, Amazon Web Servcies, Ubuntu, REST)
 
 * Developed for CSE 383 final, this website is a front end interface that allows the user to interact with various API's in a user friendly way.
 * First tab displays basic information about the design of the website.
@@ -38,19 +38,19 @@ Role: iOS Developer
 * Fourth tab allows the user to update a database with new sensor readings. Allows the user to select the sensor and specify a location and value and it then makes an AJAX call to a REST server that would add data to the SQL database running on an AWS instance.
 * Fifth tabs allows the user to create a sensor report that pulls the most recent sensor readings from the SQL database. Allows the user to specify the number of sensors to include. Makes an AJAX call to a REST server which will pull the sensor information from the database.
 
-[Covid Ohio Shiny App Dashboard (R/R-Shiny)](https://github.com/Ben-Hilger/STA-404-Covid-Shiny-App.git)
+Covid Ohio Shiny App Dashboard (R/R-Shiny)
 
 * Developed for STA 404 final, displays different aspects of COVID data similar to the COVID dashboard.
 * Includes graphs such as a choropleth map of Ohio and bar charts comparing different repsonses among counties and age groups. It also has tabs of bar graphs showing the counts and rates of different respsonses as they change over time throughout the pandemic.
 * Data pulled from Ohio government and census population website
 
-[Movie Database Website (HTML/CSS/Javascript)](https://github.com/Ben-Hilger/CSE-201-Project)
+Movie Database Website (HTML/CSS/Javascript)
 
 * Developed as a website that would display/sort a list of movies from a database.
 * Architected back-end with JavaScript and Google's Firebase platform. Front-end with HTML/CSS. Version Control with GitHub
 * Helped develop, and implement user email/password login and admin permissions for adding movies to the list. Implemented user permissions to request movies be added to the list
 
-[Edge Database (Swift/Kotlin)](https://github.com/Ben-Hilger/EdgeDatabaseIOS)
+Edge Database (Swift/Kotlin)
 
 * Developed as a communication platform for coaches and players
 * Allows coaches to create teams, drills and lesson plans. Also allows coaches to invite players and assign them homework/drills. Also provides students with the ability to view videos of each drill
