@@ -6,7 +6,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 ### **Due to these projects being under heavy development, project links can't be given at this time.** (If you're interested looking at these code bases please feel free to reach out)
 
-**Miami University Baseball Analytics Dashboard (HTML/CSS/Bootstrap, React, Node.js, Javascript, Python, Python Flask, Google Cloud, Google Firebase)**
+**Miami University Baseball Analytics Dashboard (HTML/CSS/Bootstrap, React, Node.js, Javascript, Java Spring, Google Cloud, Google Firebase)**
 
 Role: Development Team Lead
 
