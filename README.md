@@ -8,7 +8,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 **Miami University Baseball Analytics Dashboard (HTML/CSS/Bootstrap, React, Node.js, Javascript, Python, Python Flask, Google Cloud, Google Firebase)**
 
-Role: Full Stack Developer, Team Lead
+Role: Development Team Lead
 
 * Lead a team of 12 developers in designing an analytics dashboard for use by Miami University baseball coaches in making player development and game-time decisions. As the lead, I manage resources including Firebase Firestore, Hosting, Storage, Google Cloud, Github, Google Drive, Slack and Trello. Developing with HTML/CSS, JavaScript, React, Python, IOS. Manage discussions with Project Manager to construct necessary requirements and documentation.
 * Uses React to provide a responsive and elegant interface. Hosted using Google's Firebase Hosting Service.
