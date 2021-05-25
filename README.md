@@ -37,7 +37,7 @@ Edge Database (Swift/Kotlin)
 
 # Classes
 
-## Upcoming Classes for Spring 2021
+## Previous Classes
 
 CSE 262: Tech, Ethics & Global Society
 
@@ -58,8 +58,6 @@ CSE 465: Comparative Programming Languages
 STA 401: Probability
 
 * Course Description from Miami Course List: "Development of probability theory with emphasis on how probability relates to statistical inference. Topics include review of probability basics, counting rules, Bayes Theorem, distribution function, expectation and variance of random variables and functions of random variables, moment generating function, moments, probability models for special random variables, joint distributions, maximum likelihood estimation, unbiasedness, distributions of functions of random variables, chi-square distribution, students t distribution, F distribution, and sampling distributions of the sample mean and variance."
-
-## Previous Classes
 
 CSE 383: Web Applications/Programming (Linux/Terminal, C++, HTML/CSS/Javascript, AWS, AJAX, jQuery, PHP, REST)
 
