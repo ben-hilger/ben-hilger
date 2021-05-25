@@ -2,27 +2,6 @@
 
 This repository holds code from classes I've taken and projects I've worked on during my early career. 
 
-# Miami University Baseball Projects
-
-### **Due to these projects being under heavy development, project links can't be given at this time.** (If you're interested looking at these code bases please feel free to reach out)
-
-**Miami University Baseball Analytics Dashboard (HTML/CSS/Bootstrap, React, Node.js, Javascript, Java Spring, Google Cloud, Google Firebase)**
-
-Role: Development Team Lead
-
-* Lead a team of 12 developers in designing an analytics dashboard for use by Miami University baseball coaches in making player development and game-time decisions. As the lead, I manage resources including Firebase Firestore, Hosting, Storage, Google Cloud, Github, Google Drive, Slack and Trello. Developing with HTML/CSS, JavaScript, React, Python, IOS. Manage discussions with Project Manager to construct necessary requirements and documentation.
-* Uses React to provide a responsive and elegant interface. Hosted using Google's Firebase Hosting Service.
-* Uses Google's Firebase Firestore to store the data.
-* Uses Python Flask and Google's Cloud Services to host a backend server capable of recieving network request, performing analytics on the stored data, and returning the results to the front end.
-
-**Miami Universitiy Baseball Game Tracker iPad App (Swift, SwiftUI, Google Firebase)**
-
-Role: iOS Development Lead
-
-* An iPad app used by the Miami Baseball team to gather as much pitch-by-pitch data in a baseball game as possible.
-* Uses that information to perform in-game analysis on various aspects of baseball game as desired by coaching staff in real time.
-* Uploads the data to Google's Firestore for future reference by the Analytics Dashboard
-
 # Personal/Academic Project Links
 
 [Personal Github Repository Front Page](https://github.com/Ben-Hilger/Ben-Hilger)
