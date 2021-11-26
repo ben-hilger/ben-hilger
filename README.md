@@ -35,9 +35,23 @@ Edge Database (Swift/Kotlin)
 * Allows coaches to create teams, drills and lesson plans. Also allows coaches to invite players and assign them homework/drills. Also provides students with the ability to view videos of each drill
 * Architected with Google's Firebase, Kotlin Multi-platform Library. Version Control with GitHub
 
-# Classes
+# Upccoming Classes (Spring 2022)
+
+CSE 451: Web Services
+
+Advanced Databases
+
+Software Quality Assurance
 
 ## Previous Classes
+
+STC 135: Public Speaking
+
+CSE 470M: Ethical Hacking
+
+CSE 470G: Devops and Cloud Computing
+
+CSE 443: High Performance Computing
 
 CSE 262: Tech, Ethics & Global Society
 
@@ -46,8 +60,6 @@ CSE 374: Algorithms I
 CSE 381: Systems II
 
 CSE 465: Comparative Programming Languages
-
-STA 401: Probability
 
 CSE 383: Web Applications/Programming (Linux/Terminal, C++, HTML/CSS/Javascript, AWS, AJAX, jQuery, PHP, REST)
 
