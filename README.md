@@ -23,7 +23,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 * Includes graphs such as a choropleth map of Ohio and bar charts comparing different repsonses among counties and age groups. It also has tabs of bar graphs showing the counts and rates of different respsonses as they change over time throughout the pandemic.
 * Data pulled from Ohio government and census population website
 
-Movie Database Website (HTML/CSS/Javascript)
+[Movie Database Website (HTML/CSS/Javascript)](https://github.com/Ben-Hilger/CSE-201-Project)
 
 * Developed as a website that would display/sort a list of movies from a database.
 * Architected back-end with JavaScript and Google's Firebase platform. Front-end with HTML/CSS. Version Control with GitHub
