@@ -17,7 +17,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 * Fourth tab allows the user to update a database with new sensor readings. Allows the user to select the sensor and specify a location and value and it then makes an AJAX call to a REST server that would add data to the SQL database running on an AWS instance.
 * Fifth tabs allows the user to create a sensor report that pulls the most recent sensor readings from the SQL database. Allows the user to specify the number of sensors to include. Makes an AJAX call to a REST server which will pull the sensor information from the database.
 
-Covid Ohio Shiny App Dashboard (R/R-Shiny)
+[Covid Ohio Shiny App Dashboard (R/R-Shiny)](https://github.com/Ben-Hilger/STA-404-Covid-Shiny-App)
 
 * Developed for STA 404 final, displays different aspects of COVID data similar to the COVID dashboard.
 * Includes graphs such as a choropleth map of Ohio and bar charts comparing different repsonses among counties and age groups. It also has tabs of bar graphs showing the counts and rates of different respsonses as they change over time throughout the pandemic.
