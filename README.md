@@ -8,6 +8,18 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 * This page is designed to showcase and allow for easy access to my varius projects for everyone to see, learn and provide feedback on how I can imporve my code
 
+[Redesigned Baseball iOS Application](https://github.com/Ben-Hilger/Baseball-iOS)
+
+* iOS application used during baseball games to collect data used for later analysis.
+
+[Baseball SQL Schema and Stored Procedures](https://github.com/Ben-Hilger/Baseball-SQL)
+
+* SQL structure and stored procedures used in managing stored baseball metadata and information
+
+[Baseball Go AWS Lambda Functions](https://github.com/Ben-Hilger/Baseball-Go-backend)
+
+* Lambda functions used in the Baseball API backend.
+
 [Client Front End Interface with REST PHP Backend (Javascript, HTML/CSS/Bootstrap, PHP, SQL, Amazon Web Servcies, Ubuntu, REST)](https://github.com/Ben-Hilger/Client-Front-End-Interface)
 
 * Developed for CSE 383 final, this website is a front end interface that allows the user to interact with various API's in a user friendly way.
