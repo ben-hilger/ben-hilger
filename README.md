@@ -50,15 +50,13 @@ Edge Database (Swift/Kotlin)
 * Allows coaches to create teams, drills and lesson plans. Also allows coaches to invite players and assign them homework/drills. Also provides students with the ability to view videos of each drill
 * Architected with Google's Firebase, Kotlin Multi-platform Library. Version Control with GitHub
 
-# Upccoming Classes (Spring 2022)
+# Classes
 
 CSE 451: Web Services
 
 Advanced Databases
 
 Software Quality Assurance
-
-## Previous Classes
 
 STC 135: Public Speaking
 
