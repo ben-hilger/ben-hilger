@@ -10,6 +10,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 [Personal Website](https://github.com/Ben-Hilger/Personal-Website)
 
+* WIP
 
 [Redesigned Baseball iOS Application](https://github.com/Ben-Hilger/Baseball-iOS)
 
@@ -22,21 +23,6 @@ This repository holds code from classes I've taken and projects I've worked on d
 [Baseball Go AWS Lambda Functions](https://github.com/Ben-Hilger/Baseball-Go-backend)
 
 * Lambda functions used in the Baseball API backend.
-
-[Client Front End Interface with REST PHP Backend (Javascript, HTML/CSS/Bootstrap, PHP, SQL, Amazon Web Servcies, Ubuntu, REST)](https://github.com/Ben-Hilger/Client-Front-End-Interface)
-
-* Developed for CSE 383 final, this website is a front end interface that allows the user to interact with various API's in a user friendly way.
-* First tab displays basic information about the design of the website.
-* Second tab allows for the user to perform basic calculator operations (+ - * /) between two numbers. Makes an AJAX call with a backend server to perform the calculation and returns the result. Can handle divide by 0 errors.
-* Third tab gets a basic 7-day forecast based on a specified zipcode and displays the information in an elegant table format. Makes AJAX calls to get the lat/long of the zip code and then calls the openweatherdata api to get the required weather information.
-* Fourth tab allows the user to update a database with new sensor readings. Allows the user to select the sensor and specify a location and value and it then makes an AJAX call to a REST server that would add data to the SQL database running on an AWS instance.
-* Fifth tabs allows the user to create a sensor report that pulls the most recent sensor readings from the SQL database. Allows the user to specify the number of sensors to include. Makes an AJAX call to a REST server which will pull the sensor information from the database.
-
-Covid Ohio Shiny App Dashboard (R/R-Shiny)
-
-* Developed for STA 404 final, displays different aspects of COVID data similar to the COVID dashboard.
-* Includes graphs such as a choropleth map of Ohio and bar charts comparing different repsonses among counties and age groups. It also has tabs of bar graphs showing the counts and rates of different respsonses as they change over time throughout the pandemic.
-* Data pulled from Ohio government and census population website
 
 # Classes
 
