@@ -12,16 +12,10 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 * WIP
 
-[Redesigned Baseball iOS Application](https://github.com/Ben-Hilger/Baseball-iOS)
+[Redesigned Baseball iOS Application](https://github.com/Ben-Hilger/Baseball)
 
 * iOS application used during baseball games to collect data used for later analysis.
-
-[Baseball SQL Schema and Stored Procedures](https://github.com/Ben-Hilger/Baseball-SQL)
-
 * SQL structure and stored procedures used in managing stored baseball metadata and information
-
-[Baseball Go AWS Lambda Functions](https://github.com/Ben-Hilger/Baseball-Go-backend)
-
 * Lambda functions used in the Baseball API backend.
 
 # Classes
