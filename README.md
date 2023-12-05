@@ -8,10 +8,6 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 * This page is designed to showcase and allow for easy access to my varius projects for everyone to see, learn and provide feedback on how I can imporve my code
 
-[Personal Website](https://github.com/Ben-Hilger/Personal-Website)
-
-* WIP
-
 [Redesigned Baseball iOS Application](https://github.com/Ben-Hilger/Baseball)
 
 * iOS application used during baseball games to collect data used for later analysis.
