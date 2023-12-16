@@ -14,42 +14,6 @@ This repository holds code from classes I've taken and projects I've worked on d
 * SQL structure and stored procedures used in managing stored baseball metadata and information
 * Lambda functions used in the Baseball API backend.
 
-# Classes
-
-CSE 451: Web Services
-
-Advanced Databases
-
-Software Quality Assurance
-
-STC 135: Public Speaking
-
-CSE 470M: Ethical Hacking
-
-CSE 470G: Devops and Cloud Computing
-
-CSE 443: High Performance Computing
-
-CSE 262: Tech, Ethics & Global Society
-
-CSE 374: Algorithms I
-
-CSE 381: Systems II
-
-CSE 465: Comparative Programming Languages
-
-CSE 383: Web Applications/Programming (Linux/Terminal, C++, HTML/CSS/Javascript, AWS, AJAX, jQuery, PHP, REST)
-
-CSE 385: Database Systems (Database Structures, Database Design Process, mySQLWorkbench)
-
-STA 404: Advanced Data Visualizaion (R,RStudio)
-
-CSE 102: Computer Science & Software Engineering (Java/HTML/CSS/Javascript/Python/SQL)
-
-CSE 274: Data Structures & Abstractions (Java)
-
-CSE 278: Intro to System Programming (Java, C++)
-
 # Technologies Used in Projects
 
 ### Programming Languages
@@ -72,7 +36,7 @@ CSE 278: Intro to System Programming (Java, C++)
 ### Database/Services
 
 * Amazon Web Services
-* Google Firebase Firestore
+* Google Cloud
 * NoSQL Databases
 * Docker
 * Docker Swarm
