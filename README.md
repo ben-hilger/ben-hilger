@@ -28,6 +28,16 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 * Here I store the basics of different programming languages I'm learning. Currently learning rust
 
+[LeetCode](https://github.com/Ben-Hilger/LeetCode)
+
+**Languages Present**: Java, C++
+
+* Here I store the solutions I've written for differnet leetcode problems that have been accepted.
+
+[NVIM Config](https://github.com/Ben-Hilger/nvim-config)
+
+* Here I store the current nvim config I use with my personal projects.
+
 [Redesigned Baseball iOS Application](https://github.com/Ben-Hilger/Baseball)
 
 **Languages Present**: Swift, Go
