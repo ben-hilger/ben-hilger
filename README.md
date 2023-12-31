@@ -7,7 +7,11 @@ This repository holds code from classes I've taken and projects I've worked on d
 [Personal Github Repository Front Page](https://github.com/Ben-Hilger/Ben-Hilger)
 
 * This page is designed to showcase and allow for easy access to my varius projects for everyone to see, learn and provide feedback on how I can imporve my code
-  
+
+[Personal Website](https://github.com/Ben-Hilger/website)
+
+* The code that runs [https://www.ben-hilger.com](https://www.ben-hilger.com)
+
 [Data Structures](https://github.com/Ben-Hilger/data-structures)
 
 * Here I take time to implement different data structures (stack, queue, hashtable, etc) from scratch to gain a deeper understanding of the underlying logic
