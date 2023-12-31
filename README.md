@@ -32,7 +32,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 **Languages Present**: Java, C++
 
-* Here I store the solutions I've written for differnet leetcode problems that have been accepted.
+* Here I store the solutions I've written for different leetcode problems that have been accepted.
 
 [NVIM Config](https://github.com/Ben-Hilger/nvim-config)
 
