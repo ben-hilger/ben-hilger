@@ -16,6 +16,12 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 * The code that runs [https://www.ben-hilger.com](https://www.ben-hilger.com)
 
+[Advent of Code](https://github.com/Ben-Hilger/advent-of-code)
+
+**Languages Present**: Rust
+
+* Here I store the different solutions I've written for [advent of code](https://adventofcode.com/) problems. Currently going through past problems to learn Rust
+
 [Data Structures](https://github.com/Ben-Hilger/data-structures)
 
 **Languages Present**: C
