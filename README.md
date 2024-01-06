@@ -2,7 +2,7 @@
 
 This repository holds code from classes I've taken and projects I've worked on during my early career. 
 
-# Personal/Academic Project Links
+# Project Links
 
 [Personal Github Repository Front Page](https://github.com/Ben-Hilger/Ben-Hilger)
 
