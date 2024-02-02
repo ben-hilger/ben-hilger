@@ -12,7 +12,7 @@ This repository holds code from classes I've taken and projects I've worked on d
 
 **Languages Present**: Typescript
 
-**Technologies Present**: Docker, Google Cloud for Hosting, NextJs
+**Technologies Present**: Docker, Railway.app, NextJs
 
 * The code that runs [https://www.ben-hilger.com](https://www.ben-hilger.com)
 
