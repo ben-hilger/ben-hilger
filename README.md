@@ -5,4 +5,4 @@ Hello! My name is Ben Hilger, and I'm a software engineer
 * I've been coding in my free time for 5+ years
 * I am currently learning Golang
 * I've spending extra time re-inforcing the basics of data structures and algorithms
-* I'm currently commited to spend the next two months learning neovim
+* I'm currently commited to spend the next two months learning vim motions
