@@ -12,7 +12,7 @@ Hello, my name is Ben Hilger! I'm a software engineer at **Cerkl**, looking to u
 
 * **Languages:** Go, Javascrpt, Typescript, PHP, Java, Python
 * **Frameworks & Libraries:** Node.js, Vue, Next.js
-* **🛠️ Tools & Platforms:** Google Cloud, GitHub, PHPStorm, Goland
+* **🛠️ Tools & Platforms:** Google Cloud, GitHub, PHPStorm, Goland, Jira
 
 ## Professional Goals
 
