@@ -10,12 +10,14 @@ Hello, my name is Ben Hilger! I'm a software engineer at **Cerkl**, looking to u
 
 ## Key Projects
 
-* **Accountame**: A brand new **#buildinpublic** project that focuses on turning your phone into an amazing tool and keeping yourself accountable.
-  * **Backend**: Go
-  * **iOS**: Swift/SwiftUI
-  * **Cloud Infrastructure**: Amazon Web Services
-  * **Infrastructure as Code**: AWS CDK with Go
-  * Docker
+* **Accountame**: A brand new **#buildinpublic** project that focuses on turning your phone into an amazing productivity tool to reach your goals and keep yourself accountable.
+  * [Repository](https://github.com/ben-hilger/accountame)
+  * **Tech Stack**:
+    * **Backend**: Go
+    * **iOS**: Swift/SwiftUI
+    * **Cloud Infrastructure**: Amazon Web Services
+    * **Infrastructure as Code**: AWS CDK with Go
+    * Docker
 
 ## Technical Skills
 
