@@ -8,6 +8,15 @@ Hello, my name is Ben Hilger! I'm a software engineer at **Cerkl**, looking to u
 
 🔧 I've spending extra time re-inforcing the basics of data structures and algorithms
 
+## Key Projects
+
+* **Accountame**: A brand new **#buildinpublic** project that focuses on turning your phone into an amazing tool and keeping yourself accountable.
+  * **Backend**: Go
+  * **iOS**: Swift/SwiftUI
+  * **Cloud Infrastructure**: Amazon Web Services
+  * **Infrastructure as Code**: AWS CDK with Go
+  * Docker
+
 ## Technical Skills
 
 * **Languages:** Go, Javascrpt, Typescript, PHP, Java, Python
