@@ -38,5 +38,5 @@ I'm always looking to connect and learn from other people in the tech industry. 
 
 [LinkedIn](https://www.linkedin.com/in/benjaminhilger/)
 
-[X/Twitter](https://x.com/BenDev404)
+[X](https://x.com/BenDev404)
 
