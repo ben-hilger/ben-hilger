@@ -14,7 +14,6 @@ Hello, my name is Ben Hilger! I'm a software engineer at **Cerkl**, looking to u
   * [Repository](https://github.com/ben-hilger/accountame)
   * **Tech Stack**:
     * **Backend**: Go
-    * **iOS**: Swift/SwiftUI
     * **Android**: Coming Soon
     * **Cloud Infrastructure**: Amazon Web Services
     * **Infrastructure as Code**: AWS CDK with Go
