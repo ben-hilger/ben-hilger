@@ -4,9 +4,7 @@ Hello, my name is Ben Hilger! I'm a software engineer at **Cerkl**, looking to u
 
 👔 I have been a software engineer at Cerkl for 2 years, ~1 year as an independent contractor
 
-⚽️ I've been coding in my free time for 5+ years
-
-🔧 I've spending extra time re-inforcing the basics of data structures and algorithms
+🔧 I'm spending extra time re-inforcing the basics of data structures and algorithms, while learning Go!
 
 ## Key Projects
 
@@ -14,7 +12,6 @@ Hello, my name is Ben Hilger! I'm a software engineer at **Cerkl**, looking to u
   * [Repository](https://github.com/ben-hilger/accountame)
   * **Tech Stack**:
     * **Backend**: Go
-    * **Android**: Coming Soon
     * **Cloud Infrastructure**: Amazon Web Services
     * **Infrastructure as Code**: AWS CDK with Go
     * Docker
