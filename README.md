@@ -8,13 +8,13 @@ Hello, my name is Ben Hilger! I'm a software engineer at **Cerkl**, looking to u
 
 ## Key Projects
 
-* **Accountame**: A brand new **#buildinpublic** project that focuses on turning your phone into an amazing productivity tool to reach your goals and keep yourself accountable.
-  * [Repository](https://github.com/ben-hilger/accountame)
+* ****: A brand new **#buildinpublic** project that provides a way for families to manage chores and different activities for children that could result in allowance and/or extra money to be earned
   * **Tech Stack**:
     * **Backend**: Go
+    * **Frontend**: Vue.js + Typescript
     * **Cloud Infrastructure**: Amazon Web Services
     * **Infrastructure as Code**: AWS CDK with Go
-    * Docker
+    * **Containerization**: Docker
 
 ## Technical Skills
 
