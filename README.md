@@ -8,7 +8,7 @@ Hello, my name is Ben Hilger! I'm a software engineer at **Cerkl**, looking to u
 
 ## Key Projects
 
-* ****: A brand new **#buildinpublic** project that provides a way for families to manage chores and different activities for children that could result in allowance and/or extra money to be earned
+* **Project Chore Manager**: A brand new **#buildinpublic** project that provides a way for families to manage chores and different activities for children that could result in allowance and/or extra money to be earned
   * **Tech Stack**:
     * **Backend**: Go
     * **Frontend**: Vue.js + Typescript
