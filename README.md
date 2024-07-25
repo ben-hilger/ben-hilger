@@ -6,16 +6,6 @@ Hello, my name is Ben Hilger! I'm a software engineer at **Cerkl**, looking to u
 
 🔧 I'm spending extra time re-inforcing the basics of data structures and algorithms, while learning Go!
 
-## Key Projects
-
-* **Project Chore Manager**: A brand new **#buildinpublic** project that provides a way for families to manage chores and different activities for children that could result in allowance and/or extra money to be earned
-  * **Tech Stack**:
-    * **Backend**: Go
-    * **Frontend**: Vue.js + Typescript
-    * **Cloud Infrastructure**: Amazon Web Services
-    * **Infrastructure as Code**: AWS CDK with Go
-    * **Containerization**: Docker
-
 ## Technical Skills
 
 * **Languages:** Go, Javascrpt, Typescript, PHP, Java, Python
