@@ -2,7 +2,7 @@ Hello, my name is Ben Hilger! I'm a software engineer at **Cerkl**, looking to u
 
 ## About Me
 
-👔 I have been a software engineer at Cerkl for 2 years, ~1 year as an independent contractor
+👔 I current work at Chase as a Software Engineer
 
 🔧 I'm spending extra time re-inforcing the basics of data structures and algorithms, while learning Go!
 
